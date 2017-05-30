@@ -1,0 +1,1 @@
+Run with javac Main.java && java Main
