@@ -34,6 +34,7 @@ def _bytes_feature(value):
 
   
 def label_to_one_hot(label):
+  label = label.split(".")[0]
   one_hot_label = np.zeros([CHARS_NUM, CLASSES_NUM])
   offset = []
   index = []
