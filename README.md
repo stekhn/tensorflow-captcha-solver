@@ -1,6 +1,8 @@
 # Tensorflow Captcha Solver
 Solve image based captchas using [Tensorflow](https://www.tensorflow.org/) neural networks. This demo was developed for the [DAHO.AM Conference](https://daho.am/) in Munich, 2017.
 
+**This repository is unmaintained and the code might not work as expected.** If you are looking for another Tensorflow-based solution, head over to: https://github.com/PatrickLib/captcha_recognize. 
+
 ## Getting started
 
 Clone the repository:
