@@ -72,7 +72,7 @@ $ curl -O https://vorboss.dl.sourceforge.net/project/simplecaptcha/simplecaptcha
 Extract SimpleCaptcha:
 
 ```
-$ jar xf simplecaptcha-1.2-jsd1.5.jar
+$ jar xf simplecaptcha-1.2-jdk1.5.jar
 ```
 
 Run SimpleCaptcha:
