@@ -8,7 +8,7 @@ Solve image based captchas using [Tensorflow](https://www.tensorflow.org/) neura
 Clone the repository:
 
 ```
-$ git clone https://github.com/KarimJedda/dahoam2017.git
+$ git clone https://github.com/stekhn/tensorflow-captcha-solver.git
 ```
 
 This guide was written for Mac users, but users might still find it useful. 
@@ -18,20 +18,20 @@ This guide was written for Mac users, but users might still find it useful.
 Create a new virtual environment:
 
 ```
-$ virtualenv dahoam
+$ virtualenv venv
 ```
 
 Activate the virtual environment:
 
 ```
-$ source dahoam/bin/activate
+$ source venv/bin/activate
 ```
 
 Check if the Python virtual environment is set up correctly:
 
 ```
 $ which python
-/Users/your-username/Development/dahoam2017/env/bin/python
+/Users/your-username/Development/venv/env/bin/python
 ```
 
 Install dependencies:
